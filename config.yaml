@@ -3,7 +3,7 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        openpose: 3
+        openpose: 4
         pose estimation: 3
         person re-identification: 2
 
