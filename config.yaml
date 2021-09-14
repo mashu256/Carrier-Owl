@@ -3,9 +3,9 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        kaggle: 3
-        resnet: 3
-        anomaly detection: 1
+        openpose: 3
+        pose estimation: 3
+        person re-identification: 2
 
 # 通知の閾値
 score_threshold: 0
