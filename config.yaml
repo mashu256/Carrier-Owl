@@ -7,6 +7,9 @@ keywords:
         pose estimation: 3
         person re-identification: 2
         re-id: 1
+        rehabilitation: 1
+        nursing care: 1
+        football: 1
 
 # 通知の閾値
 score_threshold: 0
