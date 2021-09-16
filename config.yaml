@@ -4,7 +4,7 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         openpose: 5
-        pose estimation: 3
+        pose estimation: 2
         person re-identification: 2
         re-id: 1
         rehabilitation: 1
