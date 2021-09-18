@@ -4,13 +4,14 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         openpose: 5
-        pose tracking: 3
-        pose estimation: 2
-        person re-identification: 2
-        re-id: 1
-        rehabilitation: 1
-        nursing care: 1
+        pose tracking: 5
+        pose estimation: 3
+        person re-identification: 3
+        re-id: 2
+        rehabilitation: 2
+        nursing care: 2
         football: 1
+        soccer: 1
 
 # 通知の閾値
 score_threshold: 0
