@@ -5,13 +5,13 @@ subject: 'cat:cs.*'
 keywords:
         openpose: 5
         pose tracking: 5
+        nursing care: 4
         pose estimation: 3
         person re-identification: 3
         re-id: 2
         rehabilitation: 2
-        nursing care: 2
         football: 1
         soccer: 1
 
 # 通知の閾値
-score_threshold: 0
+score_threshold: 1
