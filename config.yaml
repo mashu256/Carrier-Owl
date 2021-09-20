@@ -5,6 +5,7 @@ subject: 'cat:cs.*'
 keywords:
         openpose: 5
         pose tracking: 5
+        skelton pose: 5
         nursing care: 4
         pose estimation: 3
         person re-identification: 3
