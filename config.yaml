@@ -7,9 +7,10 @@ keywords:
         pose tracking: 5
         skelton pose: 5
         nursing care: 4
-        pose estimation: 3
-        person re-identification: 3
+        person re-identification one-shot learning: 4
+        person re-identification: 4
         re-id: 2
+        pose estimation: 2
         rehabilitation: 2
         football: 1
         soccer: 1
