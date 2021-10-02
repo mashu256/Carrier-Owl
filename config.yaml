@@ -3,6 +3,7 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
+        occlusion: 5
         openpose: 5
         pose tracking: 5
         skelton pose: 5
