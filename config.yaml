@@ -8,7 +8,7 @@ keywords:
         pose tracking: 5
         skelton pose: 5
         person re-identification one-shot learning: 5
-        person re-identification: 4
+        person re-id: 3
         re-id: 2
 
 # 通知の閾値
