@@ -3,13 +3,12 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
-        occlusion: 5
         openpose: 5
-        pose tracking: 5
-        skelton pose: 5
-        person re-id one-shot learning: 5
+        occlusion: 3
+        pose tracking: 3
+        skelton pose: 3
+        person re-id one-shot learning: 3
         person re-id: 3
-        re-id: 2
 
 # 通知の閾値
 score_threshold: 0
