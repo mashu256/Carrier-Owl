@@ -4,8 +4,9 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         openpose: 5
+        person re-id: 3
         pose tracking: 3
-        person re-id one-shot learning: 3
+        person re-id one-shot learning: 4
 
 # 通知の閾値
 score_threshold: 0
