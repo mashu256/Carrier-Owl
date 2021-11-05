@@ -6,10 +6,11 @@ keywords:
         nursing care AI: 5
         openpose: 5
         person re-id one-shot learning: 4
+        posture detection: 4
         2D Skeleton Pose: 4
         person re-id: 3
         pose tracking: 3
-        
+        pose estimation: 1
         
 
 # 通知の閾値
