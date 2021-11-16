@@ -8,12 +8,13 @@ keywords:
         person re-id one-shot learning: 4
         posture detection: 4
         2D Skeleton Pose: 4
+        aging society: 3
         posture: 3
         person re-id: 3
         pose tracking: 3
-        pose: 2
+        pose: 1
         pose estimation: 1
-        
+    
 
 # 通知の閾値
 score_threshold: 0
