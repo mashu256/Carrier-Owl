@@ -4,16 +4,8 @@ subject: 'cat:cs.*'
 # 検索キーワード
 keywords:
         nursing care AI: 5
-        openpose: 5
-        person re-id one-shot learning: 4
-        posture detection: 4
-        2D Skeleton Pose: 4
-        aging society: 3
-        posture: 3
-        person re-id: 3
-        pose tracking: 3 
-        pose estimation: 1
-    
+        consciousness deep learning: 5
+        
 
 # 通知の閾値
 score_threshold: 0
