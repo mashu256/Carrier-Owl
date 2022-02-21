@@ -3,6 +3,7 @@ subject: 'cat:cs.*'
 
 # 検索キーワード
 keywords:
+        surveillance face: 5
         person re-id: 5
         person re-id face: 5
         person re-id Clothes: 5
